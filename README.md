@@ -1,6 +1,11 @@
 ### Hi there 👋 I’m currently learning the programming with TNV Academy, because this is an industry thet i'm passionate about.
 I'v always liked the world of programming and i'm studyng to make it my job.
 
+These are the accounts where you can find me:
+-Facebook:https://www.facebook.com/emanuele.sforza.5/
+-Instagram: https://www.instagram.com/manusforza/
+-Linkedin: https://www.linkedin.com/feed/
+
 <!--
 **manusforza/manusforza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
